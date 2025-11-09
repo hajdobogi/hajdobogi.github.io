@@ -1,0 +1,68 @@
+hq_country,activity_name,companies
+AUS,E-Commerce,1
+AUS,Part Manufacturers,1
+AUT,Part Distributors,2
+AUT,Part Manufacturers,4
+BEL,Part Distributors,1
+BEL,Workshops,1
+BGR,Part Distributors,1
+BRA,Part Manufacturers,1
+CAN,Part Manufacturers,1
+CHE,E-Commerce,1
+CHE,Part Distributors,1
+CHN,Part Distributors,1
+CHN,Part Manufacturers,1
+CZE,E-Commerce,1
+CZE,Part Distributors,2
+CZE,Part Manufacturers,1
+CZE,Workshops,1
+DEU,Part Distributors,5
+DEU,Part Manufacturers,8
+DEU,Workshops,3
+EST,E-Commerce,1
+FRA,E-Commerce,1
+FRA,Part Distributors,1
+FRA,Part Manufacturers,2
+FRA,Workshops,1
+GBR,E-Commerce,1
+GBR,Part Distributors,1
+GBR,Part Manufacturers,2
+GBR,Workshops,2
+HRV,Part Distributors,1
+HRV,Part Manufacturers,1
+HUN,E-Commerce,2
+HUN,Part Distributors,4
+HUN,Part Manufacturers,2
+IND,Part Manufacturers,1
+ISR,Part Manufacturers,1
+ITA,Part Distributors,2
+ITA,Part Manufacturers,1
+ITA,Workshops,1
+JPN,Part Distributors,1
+JPN,Part Manufacturers,4
+JPN,Workshops,1
+KOR,E-Commerce,1
+KOR,Part Distributors,1
+KOR,Part Manufacturers,2
+LTU,Part Distributors,1
+MYS,Part Manufacturers,1
+POL,E-Commerce,2
+POL,Part Distributors,5
+POL,Part Manufacturers,4
+POL,Workshops,2
+ROU,E-Commerce,6
+ROU,Part Distributors,12
+ROU,Part Manufacturers,5
+ROU,Workshops,3
+SRB,E-Commerce,1
+SRB,Part Distributors,4
+SRB,Part Manufacturers,2
+SVK,Part Distributors,1
+SVK,Part Manufacturers,1
+SVN,Part Manufacturers,1
+SWE,Part Distributors,1
+SWE,Part Manufacturers,1
+SWE,Workshops,1
+USA,E-Commerce,6
+USA,Part Distributors,11
+USA,Part Manufacturers,10
